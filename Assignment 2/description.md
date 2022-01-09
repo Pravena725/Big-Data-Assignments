@@ -1,4 +1,4 @@
-***Implementation of Page Rank Algorithm with Embeddings for Wikipedia***
+# Implementation of Page Rank Algorithm with Embeddings for Wikipedia
 
 **Task 1** - Convert an input file to an adjacency list using Map Reduce. The input will be uploaded as a .txt file. Write Map and Reduce functions to read the input text file and generate two files representing the adjacency list and initial page ranks.
 
