@@ -1,4 +1,4 @@
-Analysis of Earth Surface Temperature using Spark
+***Analysis of Earth Surface Temperature using Spark
 
 Task 1 - Find the number of times where a city’s average temperature on a day turned out to be higher than the city’s average temperature throughout the dataset for a given country.
 Use the city.csv DataFrame to find the number of times a city’s average temperature turned out to be higher than the city’s overall average temperature for a given country and display each city along with its count on a newline.
